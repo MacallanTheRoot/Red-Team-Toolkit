@@ -1,0 +1,26 @@
+# --- Python Çöpleri ---
+__pycache__/
+*.pyc
+*.pyo
+
+# --- Güvenlik (ASLA YÜKLEME) ---
+*.pem
+*.key
+SIFRELI_ANAHTAR.bin
+
+# --- Ransomware Test Verileri ---
+*.locked
+*.kilitli
+calinan_veriler/
+# test_klasoru içindeki txt'ler kalsın ama fidye notları gitsin
+READ_ME_NOW.txt
+READ_ME.txt
+
+# --- Raporlar ---
+*.html
+*.log
+
+# --- Sanal Ortamlar ---
+env/
+venv/
+arp_env/

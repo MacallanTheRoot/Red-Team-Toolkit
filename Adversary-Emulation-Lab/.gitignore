@@ -1,0 +1,28 @@
+# --- Python Gereksizleri ---
+__pycache__/
+*.pyc
+venv/
+.env
+
+# --- PyInstaller Artıkları (EXE Derleme Çıktıları) ---
+build/
+dist/
+*.spec
+
+# --- Üretilen Malware ve Araçlar ---
+payload.py
+payload.exe
+decryptor.py
+
+# --- Kriptografik Anahtarlar (ASLA GITHUB'A ATILMAZ) ---
+*.pem
+*.key
+SIFRELI_ANAHTAR.bin
+
+# --- Operasyonel Veriler ---
+calinan_veriler/
+kurbanlar.db.txt
+test_klasoru/
+
+# --- Loglar ---
+*.log

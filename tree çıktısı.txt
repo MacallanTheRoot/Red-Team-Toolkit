@@ -1,0 +1,48 @@
+                                                                                                                                                                                             
+┌──(macallan㉿kali)-[~/Downloads/projects/macallan]
+└─$ tree -X
+<?xml version="1.0" encoding="UTF-8"?>
+<tree>
+  <directory name=".">
+    <directory name="Adversary-Emulation-Lab">
+      <file name="help.md"></file>
+      <file name="main.py"></file>
+      <file name="README.md"></file>
+      <file name="requirements.txt"></file>
+      <directory name="test_klasoru">
+        <file name="banka.txt"></file>
+        <file name="dosya1.txt"></file>
+        <file name="dosya2.txt"></file>
+        <file name="gizli.txt"></file>
+      </directory>
+    </directory>
+    <directory name="arp_spoofer">
+      <file name="listener.py"></file>
+      <file name="main.py"></file>
+      <file name="README.md"></file>
+      <file name="requirements.txt"></file>
+    </directory>
+    <directory name="AutoSec">
+      <file name="main.py"></file>
+      <directory name="modules">
+        <file name="__init__.py"></file>
+        <file name="intel.py"></file>
+        <file name="recon.py"></file>
+        <file name="report.py"></file>
+        <file name="scan.py"></file>
+      </directory>
+      <file name="README.md"></file>
+      <file name="requirements.txt"></file>
+    </directory>
+    <directory name="packet_sniffer">
+      <file name="main.py"></file>
+      <file name="README.md"></file>
+    </directory>
+    <file name="tree çıktısı.txt"></file>
+  </directory>
+  <report>
+    <directories>7</directories>
+    <files>23</files>
+  </report>
+</tree>
+                    

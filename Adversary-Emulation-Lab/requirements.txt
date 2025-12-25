@@ -1,0 +1,6 @@
+tkinter
+flask
+requests
+cryptography
+pyinstaller
+# Not: smtplib, socket, os, sys gibi modüller Python ile gömülü gelir.

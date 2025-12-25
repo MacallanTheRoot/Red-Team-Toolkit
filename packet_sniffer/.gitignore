@@ -1,0 +1,10 @@
+# Python Cache
+__pycache__/
+*.pyc
+
+# Sistem Dosyaları
+.DS_Store
+Thumbs.db
+
+# Loglar (İleride log tutarsan diye)
+*.log
